@@ -10,7 +10,7 @@ A simple web form that validates user input in real-time using regular expressio
   - Username (5-12 characters, letters and numbers)
   - Email address
   - Password (8-20 characters, alphanumeric with @, _, -)
-  - UK telephone number (11 digits)
+  - Nigerian telephone number (11 digits)
   - Profile slug (8-20 characters, lowercase letters, numbers, hyphens)
 
 ## Implementation
